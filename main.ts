@@ -5,7 +5,7 @@ const lines: string[] = [
   "At the wet crossing,",
   "the screen says GO.",
   "A child stoops for her red mitten.",
-  "I keep my shoe on the brake.",
+  "My shoe stays on the brake.",
   "The car waits while she finds it.",
 ];
 
